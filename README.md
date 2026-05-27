@@ -56,6 +56,10 @@ Silakan pilih salah satu opsi unduhan di bawah ini. Tombol di bawah sudah dileng
 4. Replace jika ada peringatan untuk menimpa file lama.
 5. Jalankan game seperti biasa dan nikmati versi Bahasa Indonesia!
 
+[![YouTube Channel](https://img.shields.io/badge/YouTube-EromodEchi-red?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@EromodEchi)
+
+📢 **Ikuti Update Mod Terbaru di YouTube:** [EromodEchi Channel](http://www.youtube.com/@EromodEchi)
+
 ---
 
 > ⚠️ **Disclaimer:** Mod ini dibuat murni sebagai proyek fan-translation dan tidak berafiliasi dengan StudioTsunequze atau Kagura Games. Dukung terus developer aslinya dengan membeli game original di platform resmi!
